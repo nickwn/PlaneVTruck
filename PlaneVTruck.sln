@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaneVTruck.Plugins", "PlaneVTruck.Plugins.csproj", "{B9C7B174-2CF1-57EC-E102-834ACA403D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaneVTruck", "PlaneVTruck.csproj", "{C0BBDD9E-26BB-B773-B049-58287DB3BB3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaneVTruck.Editor.Plugins", "PlaneVTruck.Editor.Plugins.csproj", "{062E0D90-C570-FD27-D45E-4874758BB9A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaneVTruck.Editor", "PlaneVTruck.Editor.csproj", "{17447946-7AFF-3188-B77D-5C24C4660F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C7B174-2CF1-57EC-E102-834ACA403D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C7B174-2CF1-57EC-E102-834ACA403D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C7B174-2CF1-57EC-E102-834ACA403D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C7B174-2CF1-57EC-E102-834ACA403D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BBDD9E-26BB-B773-B049-58287DB3BB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BBDD9E-26BB-B773-B049-58287DB3BB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BBDD9E-26BB-B773-B049-58287DB3BB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BBDD9E-26BB-B773-B049-58287DB3BB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062E0D90-C570-FD27-D45E-4874758BB9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062E0D90-C570-FD27-D45E-4874758BB9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062E0D90-C570-FD27-D45E-4874758BB9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062E0D90-C570-FD27-D45E-4874758BB9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17447946-7AFF-3188-B77D-5C24C4660F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17447946-7AFF-3188-B77D-5C24C4660F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17447946-7AFF-3188-B77D-5C24C4660F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17447946-7AFF-3188-B77D-5C24C4660F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
