@@ -1,6 +1,8 @@
 # PlaneVTruck
 A game made during the CodeDay San Diego Hackathon
 
+Winner of the CodeDay San Diego "Most Unique" award.
+
 #### The Game:
 PlaneVTruck is a multiplayer split-screen video game that takes place in an arena with curved sides and several ramps. You can play as either a plane or a truck/car. As a plane, your goal is to bomb the truck. As a truck, your goal is to jump off one of the ramps and crash into the plane. 
 
